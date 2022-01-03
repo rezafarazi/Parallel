@@ -1,0 +1,6 @@
+C:\Users\Rezafta\Desktop\Parallel\Parallel_App\Parallel_App\bin\Debug\Parallel_App.exe.config
+C:\Users\Rezafta\Desktop\Parallel\Parallel_App\Parallel_App\bin\Debug\Parallel_App.exe
+C:\Users\Rezafta\Desktop\Parallel\Parallel_App\Parallel_App\bin\Debug\Parallel_App.pdb
+C:\Users\Rezafta\Desktop\Parallel\Parallel_App\Parallel_App\obj\Debug\Parallel_App.csprojResolveAssemblyReference.cache
+C:\Users\Rezafta\Desktop\Parallel\Parallel_App\Parallel_App\obj\Debug\Parallel_App.exe
+C:\Users\Rezafta\Desktop\Parallel\Parallel_App\Parallel_App\obj\Debug\Parallel_App.pdb
